@@ -6,7 +6,7 @@ They need you to build an interactive project where users will select an Indian 
 
 How the users select their city is up to you: editorial have used dropdowns, buttons, maps, and keyword entry autocomplete text fields before. It's your choice.
 
-## Techincal requirements
+## Technical requirements
 
 The task must be served as all flat files so that the solution can scale in a serverless environment - e.g. we would put the HTML, CSS, and JS into S3 and serve statically
 
